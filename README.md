@@ -1,4 +1,3 @@
-Project Description and Introduction
 Introduction
 This project is a tournament management system designed to track and manage student scores across various game events. The system allows users to input rankings for different games, assign points to students based on their rankings, calculate total points for each student, and display a comprehensive scoreboard. The program is written in Python and utilizes 2D arrays to store and manage data related to game participants, rankings, and points.
 
